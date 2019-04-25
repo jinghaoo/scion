@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-koa-template",
+  "version": "1.0.0",
+  "author": "jinghaoo",
+  "description": "nuxt-koa脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt",
+    "koa"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  },
+  "license": "MIT",
+  "bin": {
+    "scion": "bin/scion"
+  }
+}
